@@ -22,12 +22,15 @@ You can follow our organization
 We primarily answer all questions on our official Discord server or Youtube comments
 
 ### Minecraft server
-The Minecraft server runs on cracked Minecraft (Eaglercraft) 1.12.2. 
-###  
-You can acess the Minecraft server using the link provided or the cracked server IP
+- The Minecraft server runs on cracked Minecraft (Eaglercraft) 1.12.2. 
+- You can acess the Minecraft server using the link provided or the cracked server IP
+
 ### Link
+
     fjsurf uejsrg
+    
 ### IP
+
     fsjirfd ebjfds
 
 
