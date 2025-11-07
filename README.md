@@ -27,11 +27,11 @@ We primarily answer all questions on our official Discord server or Youtube comm
 
 ### Link
 
-    fjsurf uejsrg
+    https://automatic-space-sniffle-96qjq5vgqrv39rr9-8081.app.github.dev/wasm.html
     
-### IP
+### IP (Cracked)
 
-    fsjirfd ebjfds
+    wss://automatic-space-sniffle-96qjq5vgqrv39rr9-8081.app.github.dev/wasm.html
 
 
     
